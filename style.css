@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-family: "Metal Mania", cursive;
+    cursor: url("img/cursor_32x32.png"), auto;
+}
+.header {
+    display: flex;
+    align-items: center;    
+    justify-content: space-between; 
+    background-image: url("img/band.jpeg");
+    padding: 10px 20px;
+}
+.header img {
+    height: 80px;
+    cursor: pointer;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    font-weight: normal;
+    text-align: left;
+}
+a{
+    color: white;
+}
+.video{
+    text-align: right;
+}
+#para15,
+#para16{
+    text-align: center;
+}
+.quizimg{
+    display: block;
+    margin: 0 auto;
+}
+.quizimg{
+     transition: transform 0.2s ease;
+     cursor: pointer;
+}
+.quizimg:hover{
+    transform: scale(0.9);
+}
+#flagFR, #flagEN, #switch {
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
+#flagFR:hover,
+#flagEN:hover,
+#switch:hover {
+    transform: scale(1.12);
+}
+.img{
+    transition: transform 0.2s ease;
+     cursor: pointer;
+}
+.img:hover{
+    transform: scale(1.05);
+}
+
+body.invert {
+    background-color: white;
+    color: black;
+}
+
+body.invert h1,
+body.invert a,
+body.invert .header,
+body.invert p {
+    color: black ;
+}
