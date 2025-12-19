@@ -1,0 +1,21 @@
+Objectifs du projet : 
+
+- Thème au choix. Liste de thèmes intéressantes :
+    - Un thème autour de votre orientation
+    - Un thème autour d'un élément du programme de SNI (préparation à la question du grand oral)
+    - Le thème des trophées NSI : "nature et informatique"
+- Structure de dossiers et fichiers : fichiers index, style et - javascript + dossiers images, etc.
+- La structure sera synchronisée avec votre espace de dépôt git
+- En cas de défaillance de GIT, pensez à compresser votre travail et envoyer votre fichier compressé par l'intermédiaire de la messagerie
+- création d'une vidéos de 3 minutes qui explique quelques éléments intéressantes de votre code. 
+- La vidéo sera déposée sur une plateforme et vous communiquerez le lien vers cette vidéo.
+- Présence d deux fichiers HTML avec des éléments du cours 
+- Présence d'une feuille de style avec des éléments du cours 
+- Présence d'un fichier javascript avec une ou deux actions sur la page
+- Bonus si le site est hébergé sur le net
+- Malus important si le code provient de l'IA et que ce n'est pas mentionné.
+- Date de rendu : lundi 15 décembre
+- Quelques éléments appréciés dans votre projet et/ou votre vidéo : 
+    - Originalité
+    - Qualité de la présentation vidéo :  entrainement au grand oral
+    - Importance et la qualité de l'investissement personnel

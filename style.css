@@ -15,7 +15,8 @@ body {
     height: 80px;
     cursor: pointer;
 }
-h1 {
+h1,
+h3 {
     color: white;
     text-align: center;
 }
@@ -31,7 +32,9 @@ a{
     text-align: right;
 }
 #para15,
-#para16{
+#para16,
+#paraquiz1,
+#paraquiz2{
     text-align: center;
 }
 .quizimg{
